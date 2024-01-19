@@ -1,0 +1,1 @@
+Donc pour répondre à l'exercice 6. J'ai pu observer que les template son infiniment plus facile à mettre en place dans une librairy statique que dynamique et tout ce que je peux dire, c'est que l'une et beaucoup est plus rapide à mettre en place (statique) et c'est tout ce que j'ai pu observer lors de la confection de mes dll.
